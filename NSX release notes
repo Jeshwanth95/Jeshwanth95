@@ -41,7 +41,7 @@ Step: [vcdOperations]:[moveVappApiCall]:3714 [INFO] [Disk-Test]| Moving vApp –
 ```
 Exception: Failed to move vApp – vApp-test with errors [ 5d7588d9-a62c-4308-9c86-8dbbf5f35564 ] Cannot find VDC storage policy "ef057b95-8e06-4320-a9a2-409fc86d2a7d" in VDC "88594b4a-ca19-478c- af88-9734b485458d"
 ```
-Workaround: None
+
 
 ### After migration to NSX-T, NAT rules are not editable through VCD UI
 
